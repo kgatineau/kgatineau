@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+![kaitlyn](https://user-images.githubusercontent.com/90870802/177407265-2631be0a-2011-4a2f-bbc5-9ebda951498a.gif)
 
-<!--![kaitlyn](https://user-images.githubusercontent.com/90870802/177407265-2631be0a-2011-4a2f-bbc5-9ebda951498a.gif)
-
-**kgatineau/kgatineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**kgatineau/kgatineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
