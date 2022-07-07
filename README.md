@@ -1,7 +1,6 @@
 
+![kaitlyn gatineau (2560 × 720 px)(1)](https://user-images.githubusercontent.com/90870802/177677233-7e039a63-0b95-4710-89b2-c65a4937621c.gif)
 
-
-![kaitlyn gatineau (2560 × 720 px)](https://user-images.githubusercontent.com/90870802/177447838-4ffb51c9-ac85-40ac-94c1-0dc9581b563b.gif)
 
 
 <!--**kgatineau/kgatineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
